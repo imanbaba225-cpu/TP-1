@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mon emploi du temps</title>
+</head>
+<body>
+
+<h2>Emploi du temps IAIL/SRI S2</h2>
+
+<table border="1">
+<tr>
+    <th style="background-color: gray;"></th>
+    <th style="background-color: gray;">09:00 - 10:30</th>
+    <th style="background-color: gray;">10:30 - 12:00</th>
+    <th style="background-color: gray;">12:15 - 13:45</th>
+    <th style="background-color: gray;">13:45 - 15:15</th>
+    <th style="background-color: gray;">15:30 - 17:00</th>
+    <th style="background-color: gray;">17:00 - 18:30</th>
+</tr>
+
+<tr>
+    <td style="background-color: gray;">Lundi</td>
+    <td>Programmation Python 2<br>
+         cours.Amphi A
+    </td>
+    <td>Algorithme et Programmation C 2<br>
+         cours. Amphi A
+    </td>
+    <td></td>
+    <td>Algorithme et Programmation C 2<br>
+        <span style="color: red;">td/tp Grp1-Salle P2</span>
+    </td>
+    <td>Programmation Python 2 <br>
+        <span style="color: red;">td/tp Grp3-Salle P2</span>
+    </td>
+    <td>Programmation Python 2<br>
+        <span style="color: red;">td/tp Grp2-Salle P2</span>
+    </td>
+</tr>
+
+<tr> 
+    <td style="background-color: gray;">Mardi</td>
+    <td>Programmation Python 2<br>
+        <span style="color: red;">td/tp Grp1-Salle P2</span>
+    </td>
+    <td></td>
+    <td>Digital Skills and Intelligence Artificielle<br>
+        cours. Amphi A
+    </td>
+    <td>Digital Skills and Intelligence Artificielle<br>
+        td/tp Amphi A
+    </td>
+    <td></td>
+    <td></td>
+</tr>
+
+<tr>
+    <td style="background-color: gray;">Mercredi</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Algorithme et Programmation C 2<br>
+        <span style="color: red;">td/tp Grp2-Salle P2</span>
+    </td>
+    <td>Algèbre2<br>
+         td-Amphi A
+    </td>
+    <td>Analyse2<br>
+        td-Amphi A
+    </td>
+</tr>
+
+<tr>
+    <td style="background-color: gray;">Jeudi</td>
+    <td>Traitement du Signal<br>
+         cours-Amphi A
+    </td>
+    <td>Traitement du Signal<br> 
+        td-Amphi A
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+
+<tr>
+    <td style="background-color: gray;">Vendredi</td>
+    <td>Algèbre2<br>
+         cours-Amphi C
+    </td>
+    <td>Analyse2<br>
+         cours-Amphi C
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+
+<tr>
+    <td style="background-color: gray;">Samedi</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Programmation Web 1<br>
+        <span style="color: red;">td/tp Grp2-Salle P2</span>
+    </td>
+    <td>Programmation Web 1<br>
+         cours-Salle P1
+    </td>
+    <td>Programmation Web 1<br>
+        <span style="color: red;">td/tp Grp1-Salle P2</span>
+    </td>
+</tr>
+
+</table>
+
+</body>
+</html> 
