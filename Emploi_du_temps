@@ -24,34 +24,34 @@
 
 <tr>
     <td style="background-color: gray;">Lundi</td>
-    <td>Programmation Python 2 <br><a href="message_prof.html">prof M.Laraqui</a> <br> 
+    <td>Programmation Python 2 <br>
          cours.Amphi A
     </td>
-    <td>Algorithme et Programmation C 2<br><a href="message_prof.html">prof H.Oudani </a><br>
+    <td>Algorithme et Programmation C 2<br>
          cours. Amphi A
     </td>
     <td></td>
-    <td>Algorithme et Programmation C 2<br><a href="message_prof.html">prof H.Oudani</a><br>
+    <td>Algorithme et Programmation C 2<br>
         <span style="color: red;">td/tp Grp1-Salle P2</span>
     </td>
-    <td>Programmation Python 2 <br><a href="message_prof.html">prof A.Elouardi</a><br>
+    <td>Programmation Python 2 <br>
         <span style="color: red;">td/tp Grp3-Salle P2</span>
     </td>
-    <td>Programmation Python 2<br><a href="message_prof.html">prof A.Elouardi</a><br>
+    <td>Programmation Python 2<br>
         <span style="color: red;">td/tp Grp2-Salle P2</span>
     </td>
 </tr>
 
 <tr> 
     <td style="background-color: gray;">Mardi</td>
-    <td>Programmation Python 2<br><a href="message_prof.html">prof A.Elouardi</a><br>
+    <td>Programmation Python 2<br>
         <span style="color: red;">td/tp Grp1-Salle P2</span>
     </td>
     <td></td>
-    <td>Digital Skills and Intelligence Artificielle<br><a href="message_prof.html">prof A.Elouardi</a><br>
+    <td>Digital Skills and Intelligence Artificielle<br>
         cours. Amphi A
     </td>
-    <td>Digital Skills and Intelligence Artificielle<br><a href="message_prof.html">prof A.Elouardi</a><br>
+    <td>Digital Skills and Intelligence Artificielle<br>
         td/tp Amphi A
     </td>
     <td></td>
@@ -63,23 +63,23 @@
     <td></td>
     <td></td>
     <td></td>
-    <td>Algorithme et Programmation C 2<br><a href="message_prof.html">prof H.Oudani</a><br>
+    <td>Algorithme et Programmation C 2<br>
         <span style="color: red;">td/tp Grp2-Salle P2</span>
     </td>
-    <td>Algèbre2<br><a href="message_prof.html">prof I.boutayamo</a><br>
+    <td>Algèbre2<br>
          td-Amphi A
     </td>
-    <td>Analyse2<br><a href="message_prof.html">prof A.Hadri</a><br>
+    <td>Analyse2<br>
         td-Amphi A
     </td>
 </tr>
 
 <tr>
     <td style="background-color: gray;">Jeudi</td>
-    <td>Traitement du Signal<br><a href="message_prof.html">prof H.Azzahhafi</a><br>
+    <td>Traitement du Signal<br>
          cours-Amphi A
     </td>
-    <td>Traitement du Signal<br><a href="message_prof.html">prof H.Azzahhafi</a><br>
+    <td>Traitement du Signal<br>
         td-Amphi A
     </td>
     <td></td>
@@ -90,10 +90,10 @@
 
 <tr>
     <td style="background-color: gray;">Vendredi</td>
-    <td>Algèbre2<br><a href="message_prof.html">prof I.boutayamo</a><br>
+    <td>Algèbre2<br>
          cours-Amphi C
     </td>
-    <td>Analyse2<br><a href="message_prof.html">prof A.Hadri</a><br>
+    <td>Analyse2<br>
          cours-Amphi C
     </td>
     <td></td>
@@ -107,13 +107,13 @@
     <td></td>
     <td></td>
     <td></td>
-    <td>Programmation Web 1<br><a href="message_prof.html">prof K.Omari</a><br>
+    <td>Programmation Web 1<br>
         <span style="color: red;">td/tp Grp2-Salle P2</span>
     </td>
-    <td>Programmation Web 1<br><a href="message_prof.html">prof K.Omari</a><br>
+    <td>Programmation Web 1<br>
          cours-Salle P1
     </td>
-    <td>Programmation Web 1<br><a href="message_prof.html">prof K.Omari</a><br>
+    <td>Programmation Web 1<br>
         <span style="color: red;">td/tp Grp1-Salle P2</span>
     </td>
 </tr>
